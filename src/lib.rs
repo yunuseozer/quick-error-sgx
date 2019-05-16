@@ -301,6 +301,7 @@
 //!
 //!
 
+#![no_std]
 
 /// Main macro that does all the work
 #[macro_export]
